@@ -26,5 +26,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
   <br>
 
-### **Git star**
 ![wwwaas0's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwaas0&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8) 
